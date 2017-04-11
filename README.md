@@ -15,7 +15,7 @@ Notes
 
 - Boilerplate? tool? thinking more tool...
 
-Directory Structure: [tbd](#fs)
+### File Structure: [tbd](#file-structure)
 
 ```
 ./
@@ -73,7 +73,7 @@ npm run scripts:
 Decide... Settle
 ------------------
 
-<a name="filestructure" />ducks file structure
+### file structure
 [discussion in github issue](https://github.com/erikras/react-redux-universal-hot-example/issues/169)
 [medium article](https://medium.com/@scbarrus/the-ducks-file-structure-for-redux-d63c41b7035c)
 
